@@ -29,5 +29,5 @@ jobs:
           context: .
           platforms: linux/arm64
           push: true
-          tags: ghcr.io/${{ github.repository }}/zotify:latest
+          tags: ghcr.io/dmjoh/zotify:latest
 
